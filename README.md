@@ -1,3 +1,2 @@
 # Practice
-First Git
-Shravan
+This is my fisrt git project
